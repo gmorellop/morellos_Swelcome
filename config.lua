@@ -5,12 +5,12 @@ Config.Enabled = true -- Enable/disable the welcome screen
 
 -- Spawn settings
 Config.WaitAfterSpawn = 2000 -- Time in ms to wait after spawn before showing welcome screen (increase this value if the welcome screen appears during character creation)
-Config.ShowOnlyOnce = true -- If true, will only show once per player (uses player identifier)
+Config.ShowOnlyOnce = false -- If true, will only show once per player (uses player identifier)
 
 -- Content settings
-Config.Title = "Bienvenido a tu ciudad" -- Title of the welcome screen
+Config.Title = "Welcome to your city" -- Title of the welcome screen
 Config.Logo = "" -- URL to your server logo (leave empty for no logo)
-Config.BackgroundImage = "https://i.imgur.com/u8XvZMN.jpg" -- URL to background image (leave empty for default background)
+Config.BackgroundImage = "https://wallpapercave.com/wp/wp4421387.jpg" -- URL to background image (leave empty for default background)
 Config.BackgroundColor = "#0f0f0f" -- Background color (only used if no background image)
 Config.TextColor = "#ffffff" -- Text color
 
