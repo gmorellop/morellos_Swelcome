@@ -1,6 +1,9 @@
 # morellos_swelcome
 ![Image](https://github.com/user-attachments/assets/6eb3e773-86f3-4e78-9b5c-e614fe251019)
 
+Reach out to us on Discord
+Discord - https://discord.gg/733BFBtzjP
+
 A simple yet powerful welcome screen resource for FiveM servers. Display customizable welcome messages, server rules, and information to players upon joining.
 
 ## Features
