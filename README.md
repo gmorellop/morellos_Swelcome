@@ -114,3 +114,5 @@ This resource is provided as-is for FiveM server owners.
 ## Credits
 
 Created by S4int - Version 1.0.0
+- If you like my scripts, you can check out my TEBEX store.
+https://morelloscript.tebex.io/
