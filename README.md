@@ -17,9 +17,9 @@ A simple yet powerful welcome screen resource for FiveM servers. Display customi
 
 ## Installation
 
-1. Download the `morellos_Swelcome` folder
+1. Download the `morellos_swelcome` folder
 2. Place it in your server's `resources` directory
-3. Add `ensure morellos_Swelcome` to your `server.cfg`
+3. Add `ensure morellos_swelcome` to your `server.cfg`
 
 ## Configuration
 
